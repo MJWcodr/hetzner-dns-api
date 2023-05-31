@@ -1,2 +1,2 @@
 # hetzner-dns-api
-A wrapper for the Hetzner DNS API
+A python wrapper for the Hetzner DNS API
